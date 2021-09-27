@@ -12,6 +12,6 @@
 
 .garments-capital {
     width: 20%;
-    border: 1px solid gray;
     margin: 10px;
+    box-shadow: rgba(28, 63, 61, 0.35)2px 5px 15px;
 }

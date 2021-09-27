@@ -1,7 +1,7 @@
 import React from 'react';
 import './Garments.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee, faCaretSquareDown, faCalculator, faFaucet, faQuestionCircle } from '@fortawesome/free-solid-svg-icons'
+import { faCalculator } from '@fortawesome/free-solid-svg-icons'
 
 const Garments = (props) => {
     // console.log(props.company);
@@ -23,11 +23,6 @@ const Garments = (props) => {
 
             <button className="btn" onClick={() => props.handleCart(props.company)}>
                 {element} Get Total Share Amount</button>
-            
-            <div>
-                <FontAwesomeIcon icon={["fas", "coffee"]} />
-                <FontAwesomeIcon><i class="fab fa-linkedin"></i></FontAwesomeIcon>
-            </div>
         </div>
 
     );
