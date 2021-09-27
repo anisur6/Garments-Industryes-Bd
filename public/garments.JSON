@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "1",
+    "img": "https://1.bp.blogspot.com/-FNhvNmm77AY/WtqGi8Lm5kI/AAAAAAAAAbw/8hBGFaBk1Kw6BuLcLvF8P3TVrLyh45S1QCEwYBhgL/s1600/Remy%2BHolding%2BLimited%252C.jpg",
+    "name": "MR. A. K. AZAD",
+    "Shares": 75000,
+    "company": "Ha-Meem Group",
+    "email": "delwar@hameemgroup.com",
+    "phone": "+1 (983) 510-3961",
+    "Website": "http://www.hameemgroup.net/"
+  },
+  {
+    "_id": "2",
+    "img": "http://jaarchitects.com.bd/wp-content/uploads/2016/11/1-8.jpg",
+    "name": " Mrs. Qamrun Nahar Zahi",
+    "Shares": 95000,
+    "company": "Ananta Group",
+    "email": "hattiebyrd@orbixtar.com",
+    "phone": "+1 (852) 523-2788",
+    "Website": "http://www.ananta-bd.com/"
+  },
+  {
+    "_id": "3",
+    "img": "https://www.norbangroup.com/sites/default/files/styles/page_image/public/page-images/unnamed_1.jpg?itok=3aoOMBsI",
+    "name": "Polly Mack",
+    "Shares": 95000,
+    "company": "Plummy Fashions Limited",
+    "email": "pollymack@comveyor.com",
+    "phone": "+1 (812) 578-3426",
+    "Website": "http://plummyfashions.com/"
+  },
+  {
+    "_id": "4",
+    "img": "https://3.bp.blogspot.com/-uzX0rxx-nWc/WtqHQfONURI/AAAAAAAAAb4/whAZCHtXwvsObuvD35LG5fyVW0zyEPZUQCLcBGAs/s1600/Kaniz%2BFashion%2BLimited.jpg",
+    "name": "Engr. Mosharraf Hussain",
+    "Shares": 50000,
+    "company": "Standard Group",
+    "email": "copelandkramer@concility.com",
+    "phone": "+1 (865) 530-3403",
+    "Website": "http://www.dbl-group.com/"
+  },
+  {
+    "_id": "5",
+    "img": "https://static01.nyt.com/images/2013/07/25/world/jp-bangladesh1/jp-bangladesh1-superJumbo-v2.jpg",
+    "name": "Rafiquel Islam",
+    "Shares": 45000,
+    "company": "DBL Group",
+    "email": "lenorehahn@extragene.com",
+    "phone": "+1 (891) 503-3423",
+    "Website": "http://www.standard-group.com/"
+  },
+  {
+    "_id": "6",
+    "img": "https://sourcingjournal.com/wp-content/uploads/2021/03/Plummy-Fashions.jpg",
+    "name": "Md.Fazlul Haque",
+    "Shares": 85000,
+    "company": "Fakir Group",
+    "email": "lenorehahn@extragene.com",
+    "phone": "+1 (891) 503-3423",
+    "Website": "http://www.fakirgroupbd.com/"
+  },
+  {
+    "_id": "7",
+    "img": "https://static01.nyt.com/images/2020/04/02/fashion/30virus-garmentworkers-factory/merlin_163483701_c48b4d92-bf48-4d5a-8455-9a8094d32fc4-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+    "name": "Mr. Khatib Mahboob",
+    "Shares": 55000,
+    "company": "Masco Industries Limited",
+    "email": "lenorehahn@extragene.com",
+    "phone": "+1 (891) 503-3423",
+    "Website": "http://www.bitopi-group.com/"
+  },
+  {
+    "_id": "8",
+    "img": "https://lh3.googleusercontent.com/proxy/gjtGooO9-RhbPDp5f_jLFs38uiW3egxsXGIqNLI5bhsjn4zsYgvVlkv5H1E8rUxw9GvX1J0GBTNKu7InrixEjr1t6EEUSFvcHVVLAOm9MFgrU3skEIrt2tTTprEVQkAexg",
+    "name": "Md. Khalid Hasan",
+    "Shares": 66000,
+    "company": "BITOPI Group",
+    "email": "lenorehahn@extragene.com",
+    "phone": "+1 (891) 503-3423",
+    "Website": "http://www.mascoknit.com/"
+  },
+  {
+    "_id": "9",
+    "img": "http://cdn.fashion.bg/img13/TopMan-factory-2.jpg",
+    "name": "Md. Jhankar Mahbub",
+    "Shares": 55000,
+    "company": "Epic group",
+    "email": "lenorehahn@extragene.com",
+    "phone": "+1 (891) 503-3423",
+    "Website": "http://www.epichk.com/"
+  },
+  {
+    "_id": "10",
+    "img": "https://www.buildingoftheyear.bg/data/uploads/originals/buildings/307/999b86f1af888ceda05a75f8378df69a.jpg",
+    "name": "Hasin Haidar",
+    "Shares": 99000,
+    "company": "Sterling Alliance",
+    "email": "lenorehahn@extragene.com",
+    "phone": "+1 (891) 503-3423",
+    "Website": "http://www.bitopi-group.com/"
+  },
+  {
+    "_id": "11",
+    "img": "https://www.buildingoftheyear.bg/data/uploads/originals/buildings/307/f3d0d4d8523a684208814ca58adcfa3e.jpg",
+    "name": "Kawnien Ul Haq",
+    "Shares": 10000,
+    "company": "Mohammadi group",
+    "email": "lenorehahn@extragene.com",
+    "phone": "+1 (891) 503-3423",
+    "Website": "http://www.epichk.com/"
+  },
+  {
+    "_id": "12",
+    "img": "https://www.buildingoftheyear.bg/data/uploads/originals/buildings/307/500a4eff35dd163dd3ad46408f7d57cb.jpg",
+    "name": "Md. Rakibu Haq",
+    "Shares": 55000,
+    "company": "Givensee Group of Industries Ltd.",
+    "email": "lenorehahn@extragene.com",
+    "phone": "+1 (891) 503-3423",
+    "Website": "http://givenseegroup.com/"
+  }
+]

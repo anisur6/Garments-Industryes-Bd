@@ -1,0 +1,14 @@
+.head {
+    background-color: rgb(58, 144, 133);
+    padding: 10px;
+    color: white;
+}
+
+*{
+    margin: 0px;
+}
+
+.head h4 {
+    width: 75%;
+    margin: auto;
+}

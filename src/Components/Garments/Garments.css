@@ -1,0 +1,27 @@
+.img-class {
+    width: 300px;
+}
+
+.single-comp {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 10px;
+    height: 400px;
+}
+h3 {
+    margin: 5px;
+}
+
+h4 {
+    margin: 5px;
+}
+.btn {
+    margin: 10px;
+    color: white;
+    background-color: rgb(58, 144, 133);
+    padding: 10px;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+}
